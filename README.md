@@ -1,3 +1,2 @@
 # Hello-Ndohw
-my first repository on github
-I love :coffee : :pizza:, and :soccer:.
+# To improve is to change.
